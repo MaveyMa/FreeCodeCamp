@@ -8,8 +8,8 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
 ##Margins
-*margin:10px 5px 15px 20px;
-..*top margin is 10px
+* margin:10px 5px 15px 20px;
+. . * top margin is 10px
 right margin is 5px
 bottom margin is 15px
 left margin is 20px
