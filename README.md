@@ -25,3 +25,15 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 * margin:10px;
   * all four margins are 10px
+
+##Typing with Code
+* One backward tick
+'code'
+`code`
+* Three backward ticks
+'''
+var code = "formatted";
+'''
+```
+var code = "formatted";
+```
